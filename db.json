@@ -1,0 +1,20 @@
+{
+  "products": [
+        {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2999,
+      "description": "Bluetooth over-ear headphones with noise cancellation.",
+      "image": "https://zebronics.com/cdn/shop/files/Zeb-Duke2-blue-pic1_72e88a28-cd23-4974-94ab-06e6b1bac3a2.jpg?v=1742367408&width=1920",
+      "category": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "price": 3999,
+      "description": "RGB mechanical keyboard with blue switches.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/04/DSC00368.jpg?quality=50&strip=all",
+      "category": "Gaming Accessories"
+    }
+  ]
+}
